@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep learning , NLP , LLM**
 
-- 👨‍💻 All of my projects are available at [https://piyushpathak309.github.io/AnAnalyst.github.io/](https://piyushpathak309.github.io/AnAnalyst.github.io/)
+- 👨‍💻 All of my projects are available at [https://piyushpathak309.github.io/Portfolio-Projects/](https://piyushpathak309.github.io/Portfolio-Projects/)
 
 - 📝 I regularly write articles on [https://medium.com/@piyushpathak27081998](https://medium.com/@piyushpathak27081998)
 
